@@ -1,8 +1,10 @@
-{
-    "ZhenYi": {
+[
+    {
+        "supplier_no": "A0015392",
         "due_date": "2021-01-01"
     },
-    "YuKai": {
-        "due_date": "2020-01-01"
+    {
+        "supplier_no": "A0000320",
+        "due_date": "2021-01-01"
     }
-}
+]
