@@ -1,1 +1,1 @@
-# midea_config
+# public_config
