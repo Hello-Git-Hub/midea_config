@@ -1,10 +1,10 @@
 [
     {
-        "supplier_no": "A0015392",
+        "vendor_code": "A0015392",
         "due_date": "2021-01-01"
     },
     {
-        "supplier_no": "A0000320",
+        "vendor_code": "A0000320",
         "due_date": "2021-01-01"
     }
 ]
