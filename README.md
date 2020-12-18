@@ -1,1 +1,1 @@
-# public_config
+# remote_config
