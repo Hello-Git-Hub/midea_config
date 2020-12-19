@@ -1,10 +1,10 @@
 [
     {
         "vendor_code": "A0015392",
-        "due_date": "2001-01-01"
+        "license_enable": false
     },
     {
         "vendor_code": "A0000320",
-        "due_date": "2021-01-01"
+        "license_enable": true
     }
 ]
